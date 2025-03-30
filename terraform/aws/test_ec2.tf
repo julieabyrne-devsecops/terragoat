@@ -17,3 +17,4 @@ export AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7KLDFR/bPxRfiCYEXAMAAAKEY
 export AWS_DEFAULT_REGION=us-east-1
 echo "<h1>Deployed via Terraform</h1>" | sudo tee /var/www/html/index.html
 EOF
+}
